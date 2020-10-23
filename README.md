@@ -1,3 +1,5 @@
+![](https://img.shields.io/pypi/l/nxp-dlagent.svg?style=flat) ![](https://img.shields.io/pypi/pyversions/nxp-dlagent.svg?style=flat) [![](https://img.shields.io/pypi/v/nxp-dlagent.svg)](https://pypi.org/project/nxp-dlagent/) ![](https://img.shields.io/pypi/wheel/nxp-dlagent.svg?style=flat)
+
 # nxp-dlagent
 
 [NXP][nxp] keeps certain documentation and software behind a login wall.  

@@ -24,7 +24,7 @@ elftosb_5.1.19:
 
 venv:
 	virtualenv venv
-	pip install -U pip selenium
+	pip install -U pip selenium black isort flake8 flit
 
 check:
 	black --check nxp_dlagent
