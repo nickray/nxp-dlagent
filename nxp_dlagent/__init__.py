@@ -14,7 +14,7 @@ import tempfile
 import time
 
 import selenium.common.exceptions as exceptions
-from selenium.webdriver import Firefox, FirefoxProfile
+from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
 
 HEADLESS = True
